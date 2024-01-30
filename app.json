@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7de904fc-db52-41a1-ab3e-03bec0b039e4"
+      }
+    },
+    "owner": "water-level"
   }
 }
